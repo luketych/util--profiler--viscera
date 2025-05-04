@@ -1,5 +1,5 @@
 {
-  "name": "profiler",
+  "name": "util--profiler--viscera",
   "version": "1.0.0",
   "type": "module",
   "description": "A utility to profile dynamic ES module imports in Node.js",
